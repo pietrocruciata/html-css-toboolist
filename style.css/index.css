@@ -1,0 +1,124 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(234, 229, 226);
+}
+
+.start{
+    font-size: 50px;
+    vertical-align:top;
+    text-align: center;
+    padding-left: 10px;
+    
+}
+
+.bar{
+    border-bottom: solid  rgb(234, 229, 226);
+    height: 75px;
+}
+
+.cl-right{
+    color: green;
+    padding-right: 12px;
+   
+}
+
+.cl-wrong{
+    color: red;
+    padding-right: 12px;
+}
+
+
+.triangle{
+    vertical-align: -webkit-baseline-middle;
+}
+
+.pad-ce{
+    padding-left: 60px;
+    padding-top: 27px;
+}
+
+.white{
+    background-color: white;
+    
+}
+
+.container{
+    margin: 50px 20%;
+    background-color: white;
+    width: 70%;
+    height: 800px;
+    border-radius: 20px;
+    
+}
+
+.back-bl{
+    background-color: rgb(18, 139, 186);
+    color: white;
+    padding: 6px;
+    border-radius: 5px;
+}
+
+.back-gr{
+    border-radius: 5px;
+    background-color: white;
+    padding: 6px;
+    border: solid lightgrey;
+    color: lightgrey;
+}
+
+.stack{
+    margin-top: 50px;
+}
+
+.other{
+    padding-top: 30px;
+}
+
+.space{
+    padding-top: 30px;
+}
+.editorial{
+    background-color:  rgb(18, 139, 186);
+    border-radius: 100px;
+    padding: 5px;
+    color: white;
+}
+.goals{
+    border-radius: 100px;
+    padding: 5px;
+    color: white;
+    background-color: rgb(184, 26, 201); 
+}
+
+.recruiting{
+    border-radius: 100px;
+    padding: 5px;
+    color: white;
+    background-color: rgb(36, 75, 36); 
+}
+
+.mobile{
+    border-radius: 100px;
+    padding: 5px;
+    color: white;
+    background-color: rgb(244, 96, 42);
+}
+
+.website{
+    border-radius: 100px;
+    padding: 5px;
+    color: white;
+    background-color: rosybrown;
+}
+
+.sales{
+    border-radius: 100px;
+    padding: 5px;
+    color: white;
+    background-color: rgb(62, 202, 62);
+}
